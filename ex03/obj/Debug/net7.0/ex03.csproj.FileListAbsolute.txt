@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\bin\Debug\net7.0\ex03.exe
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\bin\Debug\net7.0\ex03.deps.json
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\bin\Debug\net7.0\ex03.runtimeconfig.json
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\bin\Debug\net7.0\ex03.dll
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\bin\Debug\net7.0\ex03.pdb
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.dll
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\refint\ex03.dll
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.pdb
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ex03.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\estruturaSequencial1\ex03\obj\Debug\net7.0\ref\ex03.dll
